@@ -4,8 +4,7 @@
 * currently at Uwaterloo CS Coop
 * interested in software engineering and machine learning
 
-<!---
-Richard-luyt/Richard-luyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[RESUME_FOR_SWE (1).pdf](https://github.com/user-attachments/files/26074100/RESUME_FOR_SWE.1.pdf)
+## My resume
+
+<img width="752" height="1031" alt="image" src="https://github.com/user-attachments/assets/9428943b-5dd4-4bd9-8d1e-615b0ce3a716" />
+
