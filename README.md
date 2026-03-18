@@ -6,5 +6,6 @@
 
 ## My resume
 
-<img width="752" height="1031" alt="image" src="https://github.com/user-attachments/assets/9428943b-5dd4-4bd9-8d1e-615b0ce3a716" />
+<img width="753" height="1228" alt="image" src="https://github.com/user-attachments/assets/af6aa9dd-ff21-4584-ae52-34d8ee1d5eb1" />
+
 
