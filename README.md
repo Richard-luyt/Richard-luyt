@@ -1,10 +1,10 @@
 # Hi there, I'm Richard (Yetian) Lu 👋
 
-## <img src="https://api.iconify.design/mdi:card-account-details-outline.svg?color=%2358A6FF" width="28" align="center" /> About Me
+## <img src="https://api.iconify.design/mdi:account-circle.svg?color=%238B949E" width="28" align="center" /> About Me
 
 🎓 Computer Science @ University of Waterloo.
 
-🌱 Currently diving deep into Machine Learning algorithms and Backend Develop.
+🌱 Currently diving deep into Machine Learning algorithms and Backend Development
 
 🚀 Architecting scalable backend microservices and RESTful APIs to drive data-intensive applications and AI-integrated systems.
 
@@ -16,27 +16,43 @@
 
 ## <img src="https://api.iconify.design/mdi:terminal.svg?color=%2358A6FF" width="28" align="center" /> Currently Working on ...
 
-### [Cuebase.online](https://github.com/Richard-luyt/CueBase)
-> *A RAG-powered brain that handles information with precision and curiosity.*
+<br />
 
-
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-
-- **Dual-Searching Mode**:
-  
-  - <img src="https://api.iconify.design/lucide/target.svg?color=%23ff7b72" width="20" align="top"> **Strict**: High-threshold vector...
-
-  - <img src="https://api.iconify.design/lucide/compass.svg?color=%233fb950" width="20" align="top"> **Explore**: Relaxed similarity for...
-
-
-
-### [VISION (KITTI Pipeline)](https://github.com/Richard-luyt/VISION)
-> *predicts the bbox of selected vehicle in the next frame*
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-- Implemented **ResNet18 + LSTM** on the KITTI dataset to achieve temporal consistency in object detection.
-- Developed an **Async FastAPI** backend to serve model inference as a scalable microservice.
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://cuebase.online" style="color: #58A6FF; text-decoration: none;">Cuebase.online</a></h3>
+      <blockquote><em>A RAG-powered brain that handles information with precision and curiosity.</em></blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>Dual-Searching Mode:</b>
+          <ul>
+            <li>🎯 <b>Strict:</b> High-threshold vector retrieval for accurate citations.</li>
+            <li>🌿 <b>Explore:</b> Relaxed similarity for broader knowledge discovery.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Richard-luyt/VISION" style="color: #58A6FF; text-decoration: none;">VISION (KITTI Pipeline)</a></h3>
+      <blockquote><em>Predicts the bbox of selected vehicles in the next frame.</em></blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <ul>
+        <li>Implemented <b>ResNet18 + LSTM</b> on the KITTI dataset to achieve temporal consistency in object detection.</li>
+        <li>Developed an <b>Async FastAPI</b> backend to serve model inference as a scalable microservice.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br />
 
