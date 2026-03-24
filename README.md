@@ -2,7 +2,7 @@
 
 ## <img src="https://api.iconify.design/mdi:account-circle.svg?color=%238B949E" width="28" align="center" /> About Me
 
-🎓 Computer Science @ University of Waterloo.
+🎓 BCS @ UWaterloo 2030.
 
 🌱 Currently diving deep into Machine Learning algorithms and Backend Development
 
