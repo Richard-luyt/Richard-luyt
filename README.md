@@ -80,6 +80,28 @@
 </table>
 </div>
 
+<div align="center">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" style="padding: 20px; border: 1px solid #30363d; border-radius: 6px;">
+      <h3><a href="https://github.com/Richard-luyt/ASD-Wato" style="color: #58A6FF; text-decoration: none;">Wat ASD project</a></h3>
+      <blockquote><em>Robot Path Tracking Controller</em></blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+      </p>
+      <ul style="margin-top: 10px;">
+        <li>Implemented an A* path planner and a Pure Pursuit tracking node in C++17, t</li>
+        <li>Integrated ROS 2 TF2 library for spatial coordinate transformations within a Dockerized simulation environment,
+publishing real-time velocity and steering telemetry visualized directly via Foxglove.</li>
+        <br />
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+
 <br />
 
 
