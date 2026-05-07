@@ -92,7 +92,7 @@
         <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
       </p>
       <ul style="margin-top: 10px;">
-        <li>Implemented an A* path planner and a Pure Pursuit tracking node in C++17, t</li>
+        <li>Implemented an A* path planner and a Pure Pursuit tracking node in C++17, translating vehicle kinematic constraints and lookahead geometry into a robust trajectory-following algorithm.</li>
         <li>Integrated ROS 2 TF2 library for spatial coordinate transformations within a Dockerized simulation environment,
 publishing real-time velocity and steering telemetry visualized directly via Foxglove.</li>
         <br />
